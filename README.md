@@ -1,2 +1,2 @@
-# devops
+# Devops
 DevOps Hands-On Projects 
